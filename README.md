@@ -22,6 +22,10 @@ A devcontainer to enable easy and cloud-native development of an integrated hybr
 Our related work focusing on the use of Virtual Knowledge Graphs (VKG) for the inductive discovery of candidate domain data theories from Object-Centric Event Logs (OCEL).
 * **Repository:** [riley-momo/ipr-bpm-repo](https://github.com/riley-momo/ipr-bpm-repo)
 
+### Object-Centric Case Extraction and Event Abstraction with Mereotoplogy
+Related work that formalizes event abstraction and case extraction in the object-centric process mining setting with a unified theory of mereotopology. Parts and wholes are defined for complex occurrences their component events, while connection is defined through co-participation of objects in event occurrences.
+* **Repository:** [riley-momo/ThroughTheObjectCentricLookingGlass](https://github.com/riley-momo/ThroughTheObjectCentricLookingGlass)
+
 ### Additional Materials
 All other pre-print papers and presentation slides related to the thesis.
 * **Repository:** [riley-momo/PhD-Thesis-Mining-for-Meaning](https://github.com/riley-momo/PhD-Thesis-Mining-for-Meaning)
